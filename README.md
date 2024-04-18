@@ -1,8 +1,9 @@
-# React + Vite
+# Des props et des states
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ce support a pour vocation de faire travailler sur les concepts de props et de states.
 
-Currently, two official plugins are available:
+### L'objectif 🎯
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Quand je clique sur le bouton, ce que j'ai écris dans l'input s'affiche à l'écran.
+
+💡 un indice : le parent est propriétaire de la donnée 🌞
